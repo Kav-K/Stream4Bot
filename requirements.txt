@@ -18,7 +18,7 @@ redis==3.5.2
 requests==2.23.0
 sendgrid==6.3.1
 six==1.15.0
-urllib3==1.25.9
+urllib3==1.26.5
 websockets==8.1
 yarl==1.4.2
 zope.interface==5.1.0
@@ -43,7 +43,7 @@ redis==3.5.2
 requests==2.23.0
 sendgrid==6.3.1
 six==1.15.0
-urllib3==1.25.9
+urllib3==1.26.5
 websockets==8.1
 yarl==1.4.2
 zope.interface==5.1.0
